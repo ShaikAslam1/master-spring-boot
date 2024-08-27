@@ -10,4 +10,5 @@ DTO patterns,
 service layer, 
 data validation, 
 testing in action, 
-testing isolation with Mockito
+testing isolation with Mockito,
+Spring Security with Jwt

@@ -11,6 +11,7 @@ import java.util.Collection;
 import java.util.HashMap;
 
 @RestController
+@RequestMapping("/api/v1/student-controller")
 public class StudentController {
 
     private final StudentService studentService;
